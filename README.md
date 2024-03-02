@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on MR image reconstruction with machine learning. I'm developing a library, called **[spreco](https://pypi.org/project/spreco/)** based on TensorFlow, for training generative models. With that, I have trained many medical image priors that are hosted on this **[huggingface page](https://huggingface.co/Guanxiong/MRI-Image-Priors)** and used them for image reconstruction. Many of my projects are listed on my [homepage](https://ggluo.github.io). There are some examples on Colab. Give it a try with them.
-
+- 🔭 I’m currently working on MR image reconstruction with generative models. I have been actively working on MR image reconstruction with generative models. Feel free to check out my [project](https://ggluo.github.io/projects/) page. 
+- I use python, C/C++, shell and Latex in my projects on [ggluo@github](https://github.com/ggluo).
+- I have spent much time with JAX/Tensorflow/Pytorch.
+- I developed a library, called **[spreco](https://pypi.org/project/spreco/)**, to train generative models for MRI reconstruction. 
+- Feel free to ask me about MR reconstruction and generative models
+- Check out some demos below
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Generative prior trained on a large public dataset<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggluo/image-priors/blob/main/misc/demo_image_priors_colab.ipynb)</br>
@@ -25,10 +29,5 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggluo/Bayesian-MRI/blob/master/demo_train.ipynb)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4. Using Prior with BART<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrirecon/bart-workshop/blob/master/ismrm2021/bart_tensorflow/bart_tf.ipynb)<br>
-
-
- 
-- 💬 Ask me about MR reconstruction and generative models
-- 📫 How to reach me: luoguan5@gmail.com
 
 
