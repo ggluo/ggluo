@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on MR image reconstruction with generative models. Feel free to check out my [project](https://ggluo.github.io/projects/) page and ask me about MRI reconstruction.
 - I use python, C/C++, shell and Latex.I also a developer for [BART](https://github.com/mrirecon/bart). I have spent much time with JAX/Tensorflow/Pytorch.
-- I developed a package, called **[spreco](https://pypi.org/project/spreco/)**, to train generative models for MRI reconstruction. 
+- I have a proven track record of developing and deploying generative models
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Generative prior trained on a large public dataset<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggluo/image-priors/blob/main/misc/demo_image_priors_colab.ipynb)</br>
